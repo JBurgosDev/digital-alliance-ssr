@@ -14,7 +14,7 @@ export default function Header() {
                     <a className="menuItems">ITEM</a>
                     <a className="menuItems">ITEM</a>*/}
                     <Link href="#contacto">
-                        <button className="contactItem">CONTÁCTO</button>
+                        <button className="contactItem">CONTACTO</button>
                     </Link>
                 </div>
             </header>
